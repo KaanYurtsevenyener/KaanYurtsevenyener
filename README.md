@@ -13,7 +13,41 @@ using System.Threading.Tasks;
 
 namespace çalışmaax
 {
-    class Program
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   class Program
     {
         static void Main(string[] args)
         {
