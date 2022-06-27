@@ -4,68 +4,22 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-  Hi Im kaan this is my training
-  using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace çalışmaax
-{
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   class Program
-    {
-        static void Main(string[] args)
-        {
- //           int exam1 = 60;
- //           int exam2 = 60;
- //           if (exam1*0.4 + exam2*0.6>=60)
-	//{
- //               Console.WriteLine("passed");
-	//}
- //           else if (exam1*0.4 + exam2*0.6 <40)
- //           {
- //               Console.WriteLine("integration");
- //           }
- //           else
-	{
+            //           int exam1 = 60;
+            //           int exam2 = 60;
+            //           if (exam1*0.4 + exam2*0.6>=60)
+            //{
+            //               Console.WriteLine("passed");
+            //}
+            //           else if (exam1*0.4 + exam2*0.6 <40)
+            //           {
+            //               Console.WriteLine("integration");
+            //           }
+            //           else
+            {
                 Console.WriteLine("stay");
 
-	}
+            }
             //if (number <= 87) {
             //    Console.WriteLine("This Number Is Small Than 88 ");
             //}
@@ -107,6 +61,7 @@ namespace çalışmaax
             Console.ReadLine();
 
         }
+
 
 
 
