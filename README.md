@@ -7,7 +7,21 @@
   Hi Im kaan this is my training
   
   
-  {
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  
+  
+  
+  
+  
+  
 static void Main(string[] args)
       
       
