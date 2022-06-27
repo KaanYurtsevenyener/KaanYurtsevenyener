@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-  
+  Hi Im kaan this is my training
   
   
   {
