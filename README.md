@@ -8,21 +8,22 @@
 KaanYurtsevenyener/KaanYurtsevenyener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  int exam1 =60 ;
-            int exam2 =01 ;
-            if (exam1*0.4 + exam2 * 0.6 >= 60) 
-            { 
-	
+  static void Main(string[] args)
+        {
+            int exam1 = 60;
+            int exam2 = 60;
+            if (exam1*0.4 + exam2*0.6>=60)
+	{
                 Console.WriteLine("passed");
-            }
-	
-            else if  (exam1*0.4 + exam2*0.6 >=40)
+	}
+            else if (exam1*0.4 + exam2*0.6 <40)
             {
                 Console.WriteLine("integration");
             }
             else
 	{
-             Console.WriteLine("stay");
+                Console.WriteLine("stay");
+
 	}
             //if (number <= 87) {
             //    Console.WriteLine("This Number Is Small Than 88 ");
@@ -61,7 +62,9 @@ You can click the Preview link to take a look at your changes.
             //{
             //    Console.WriteLine("Number is less than 0 or greater than 200");
             //}
-	    {
+
+            Console.ReadLine();
+
             //value type 
             //Console.WriteLine("Hello World");
             decimal number6 = 10.4m;
