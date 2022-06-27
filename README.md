@@ -8,30 +8,31 @@
   
   
   {
-  
-  
-  
-  
-  
-  
-  
-  
-  
+static void Main(string[] args)
+      
+      
+      
+      
+      
  
-  
-  static void Main(string[] args)
-        {
-            int exam1 = 60;
-            int exam2 = 60;
-            if (exam1*0.4 + exam2*0.6>=60)
-	{
-                Console.WriteLine("passed");
-	}
-            else if (exam1*0.4 + exam2*0.6 <40)
-            {
-                Console.WriteLine("integration");
-            }
-            else
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ //           int exam1 = 60;
+ //           int exam2 = 60;
+ //           if (exam1*0.4 + exam2*0.6>=60)
+	//{
+ //               Console.WriteLine("passed");
+	//}
+ //           else if (exam1*0.4 + exam2*0.6 <40)
+ //           {
+ //               Console.WriteLine("integration");
+ //           }
+ //           else
 	{
                 Console.WriteLine("stay");
 
