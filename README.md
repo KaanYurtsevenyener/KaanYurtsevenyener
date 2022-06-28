@@ -4,7 +4,27 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+            //value type 
+            //Console.WriteLine("Hello World");
+            //decimal number6 = 10.4m;
+            //double number5 = 10.4;
+            //char character = 'A';
+            //bool conditions = true;
+            //byte number4 = 0;
+            //short number3 = -32768;
+            //int number1 = 2147483647;
+            //var number7 = 10;
+            //number7 = 'A';
+            //long number2 = -922337203685477580;
+            //Console.WriteLine("Number1 is  {0} ", number1);
+            //Console.WriteLine("Number2 is  {0} ", number2);
+            //Console.WriteLine("Number3 is  {0} ", number3);
+            //Console.WriteLine("Number4 is  {0} ", number4);
+            //Console.WriteLine("Number5 is  {0} ", number5);
+            //Console.WriteLine("Number6 is  {0} ", number6);
+            //Console.WriteLine("Number7 is  {0} ", number7);
+            //Console.WriteLine("character is : {0} ", (int)character);
+            //Console.ReadLine();
             //           int exam1 = 60;
             //           int exam2 = 60;
             //           if (exam1*0.4 + exam2*0.6>=60)
