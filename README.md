@@ -26,6 +26,7 @@
             //Console.WriteLine("Number7 is  {0} ", number7);
             //Console.WriteLine("character is : {0} ", (int)character);
             //Console.ReadLine();
+            
             //           int exam1 = 60;
             //           int exam2 = 60;
             //           if (exam1*0.4 + exam2*0.6>=60)
@@ -39,6 +40,8 @@
             //           else
             {
                 Console.WriteLine("stay");
+
+
 
             }
             //if (number <= 87) {
@@ -64,6 +67,8 @@
             //        Console.WriteLine("This Number Is 88");
             //        break;
 
+
+
             //if (number >= 0 && number <= 100)
             //{
             //    Console.WriteLine("Number is between 0-100");
@@ -79,24 +84,29 @@
             //    Console.WriteLine("Number is less than 0 or greater than 200");
             //}
 
-            Console.ReadLine();
+           //    Console.ReadLine();
 
-            int number = 25;
-            if (number < 25 || number == 25)
-            {
-                Console.WriteLine("number is 25 or number is less than 25");
-            }
 
-            if (number > 50 || number == 50)
-            {
-                Console.WriteLine("number is 50 or number is greater than 50");
-            }
-            if (number > 50)
-            {
-                Console.WriteLine("number is the greater than 50 ");
-            }
-            Console.ReadLine();
+
+        //    int number = 25;
+        //    if (number < 25 || number == 25)
+        //    {
+        //        Console.WriteLine("number is 25 or number is less than 25");
+        //    }
+
+        //    if (number > 50 || number == 50)
+        //    {
+        //        Console.WriteLine("number is 50 or number is greater than 50");
+        //    }
+        //    if (number > 50)
+        //    {
+        //        Console.WriteLine("number is the greater than 50 ");
+        //    }
+        //    //Console.ReadLine();
+        //}
         }
+        
+        
             //    Add();
             //    Add();
             //    Add();
