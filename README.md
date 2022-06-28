@@ -80,6 +80,21 @@
 
             Console.ReadLine();
 
+            int number = 25;
+            if (number < 25 || number == 25)
+            {
+                Console.WriteLine("number is 25 or number is less than 25");
+            }
+
+            if (number > 50 || number == 50)
+            {
+                Console.WriteLine("number is 50 or number is greater than 50");
+            }
+            if (number > 50)
+            {
+                Console.WriteLine("number is the greater than 50 ");
+            }
+            Console.ReadLine();
         }
 
 
