@@ -4,15 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-           //    Add();
-            //    Add();
-            //    Add();
-            //    Console.ReadLine();
-
-            //}
-            //static void Add() {
-            //    Console.WriteLine("Added");
-            //}
+          
            //value type 
             //Console.WriteLine("Hello World");
             //decimal number6 = 10.4m;
@@ -105,7 +97,15 @@
             }
             Console.ReadLine();
         }
+            //    Add();
+            //    Add();
+            //    Add();
+            //    Console.ReadLine();
 
+            //}
+            //static void Add() {
+            //    Console.WriteLine("Added");
+            //}
 
 
 
