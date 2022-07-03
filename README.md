@@ -192,3 +192,20 @@
         //{
         //    return numbers.Sum();
         //}
+
+            //string[] students = new string[5];
+            //students[0] = "josh";
+            //students[1] = "chris";
+            //students[2] = "will";
+            //students[3] = "mike";
+            //students[4] = "smith";
+
+            //string[] students2 = new[] { "josh", "chris", "will", "mike", "smith" };
+            
+
+            //foreach (var student in students2)
+            //{
+            //    Console.WriteLine(student);
+            //}
+            //Console.WriteLine();
+            //Console.ReadLine();
