@@ -209,3 +209,15 @@
             //}
             //Console.WriteLine();
             //Console.ReadLine();
+            //string[] students = new string[5];
+            //students[0] = "josh";
+            //students[1] = "chris";
+            //students[2] = "will";
+            //students[3] = "black";
+            //students[4] = "smith";
+            //foreach (var student in students)
+            //{
+            //    Console.WriteLine(student);
+            //}
+            //Console.WriteLine();
+            //Console.ReadLine();
