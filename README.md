@@ -28,20 +28,21 @@
             //Console.WriteLine("character is : {0} ", (int)character);
             //Console.ReadLine();
             
-            //           int exam1 = 60;
-            //           int exam2 = 60;
-            //           if (exam1*0.4 + exam2*0.6>=60)
+                        //int exam1 = 60;
+            //int exam2 = 59;
+            //if (exam1 * 0.4 + exam2 * 0.6 >= 60)
             //{
-            //               Console.WriteLine("passed");
+            //    Console.WriteLine("passed");
             //}
-            //           else if (exam1*0.4 + exam2*0.6 <40)
-            //           {
-            //               Console.WriteLine("integration");
-            //           }
-            //           else
-            {
-                Console.WriteLine("stay");
+            //else if (exam1 * 0.4 + exam2 * 0.6 > 25 && exam1 * 0.4 + exam2 * 0.6 < 60)
+            //{
+            //    Console.WriteLine("integration");
+            //}
+            //else 
+            //{
+            //    Console.WriteLine("stay");
 
+            //}
 
 
             }
