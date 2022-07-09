@@ -264,3 +264,12 @@
             //Console.ReadLine ();
 
 
+
+            //int number = 0;
+            //do
+            //{
+            //    Console.WriteLine(number);
+            //    number++;
+            //} while (number <=100);
+            //Console.ReadLine();
+
